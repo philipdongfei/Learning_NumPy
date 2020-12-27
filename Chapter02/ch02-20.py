@@ -31,3 +31,9 @@ print(np.reshape(x,(-1,1)).shape)
 
 
 
+
+
+
+
+
+
